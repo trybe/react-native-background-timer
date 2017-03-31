@@ -8,7 +8,7 @@
 
 @import UIKit;
 #import "RNBackgroundTimer.h"
-#import <React/RCTEventDispatcher.h>
+#import <RCTEventDispatcher.h>
 
 @implementation RNBackgroundTimer {
     UIBackgroundTaskIdentifier bgTask;
